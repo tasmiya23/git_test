@@ -8,4 +8,4 @@ with open('C:\Users\tasmiya.sana\Downloads\new', 'wb') as csvFile:  # creating t
     print("Header Writen while creating")
     #for i in range(0,len(cupid_match)):
        
-    writer.writerow({'UserName':"Huli"})
+    writer.writerow({'UserName':"abc"})
